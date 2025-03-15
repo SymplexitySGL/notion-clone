@@ -1,0 +1,12 @@
+{
+  "name": "notion-website-clone",
+  "version": "1.0.0",
+  "description": "A clone of the Notion.com website with modular architecture",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
